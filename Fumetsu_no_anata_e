@@ -1,58 +1,41 @@
 {
-  "title": "Fumetsu no anata e",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "https://imgur.com/a/tiFuJRM",
+  "title": "1/2 Circled Sun",
+  "description": "Arka is like a sun to Kayra, illuminating the heart and days of Kayra's life at school. But, will Arka's light continue to smile at her?",
+  "artist": "Chairunnisa Puspasari",
+  "author": "Chairunnisa Puspasari",
+  "cover": "https://cdn.discordapp.com/attachments/823427773192208415/823859111283916810/pic_011.jpg",
   "chapters": {
-    "01": {
-      "title": "Chapter 139",
-      "volume": "16",
+    "0": {
+      "title": "Prolouge",
+      "volume": "1",
       "groups": {
-        "Pixel Horror": "/proxy/api/imgur/chapter/ngNqaun/"
+        "Random Scans": "/proxy/api/imgur/chapter/F4tz07T/"
       },
-      "last_updated": "1619723535"
+      "last_updated": "1618151565"
     },
-    "02": {
-      "title": "Chapter 2",
+   "1": {
+      "title": "About Sun",
       "volume": "1",
       "groups": {
-        "Knox Scans": "/proxy/api/imgur/chapter/saqStLd/"
+        "Random Scans": "/proxy/api/imgur/chapter/PzTfZDN/"
       },
-      "last_updated": "1619723535"
+      "last_updated": "1618151662"
     },
-    "03": {
-      "title": "Chapter 3",
+   "2": {
+      "title": "Musical Stage Festival",
       "volume": "1",
       "groups": {
-        "Knox Scans": "/proxy/api/imgur/chapter/YnR5oGO/"
+        "Random Scans": "/proxy/api/imgur/chapter/61HAKLP/"
       },
-      "last_updated": "1619723535"
-       },
-    "04": {
-      "title": "Chapter 4",
+      "last_updated": "1620037047"
+    },
+   "3": {
+      "title": "Best Friends",
       "volume": "1",
       "groups": {
-        "Knox Scans": "/proxy/api/imgur/chapter/83BwDUf/"
+        "Random Scans": "/proxy/api/imgur/chapter/N9EYC0x/"
       },
-      "last_updated": "1619723535"
-         },
-    "05": {
-      "title": "Chapter 5",
-      "volume": "1",
-      "groups": {
-        "Knox Scans": "/proxy/api/imgur/chapter/vMzgA3f/"
-      },
-      "last_updated": "1619723535"
-      },
-    "06": {
-      "title": "Chapter 6",
-      "volume": "2",
-      "groups": {
-        "Knox Scans": "/proxy/api/imgur/chapter/j7h6LYP/"
-      },
-      "last_updated": "1620015300"
-     
+      "last_updated": "1620037047"
     }
   }
 }
